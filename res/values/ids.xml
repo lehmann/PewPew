@@ -1,0 +1,10 @@
+
+    <resources>
+        <item name="app_id" type="id">178215782119</item>
+        <item name="achievement_first_extra_ball" type="id">CgkI543085cFEAIQAQ</item>
+        <item name="achievement_double_happiness" type="id">CgkI543085cFEAIQAg</item>
+        <item name="achievement_triple_happiness" type="id">CgkI543085cFEAIQAw</item>
+        <item name="achievement_fourty" type="id">CgkI543085cFEAIQBA</item>
+        <item name="achievement_mambo_number_five" type="id">CgkI543085cFEAIQBQ</item>
+        <item name="leaderboard_ranking" type="id">CgkI543085cFEAIQAA</item>
+    </resources>

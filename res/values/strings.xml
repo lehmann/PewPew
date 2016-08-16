@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PewPew Pinball</string>
+    <string name="about_menu_item">Ajuda</string>
+    <string name="end_game_menu_item">Fim</string>
+    <string name="preferences_menu_item">Preferências</string>
+    
+    <string name="high_quality_pref_title">Alta qualidade</string>
+    <string name="high_quality_pref_summary_on">Alta qualidade mas com baixa performance</string>
+    <string name="high_quality_pref_summary_off">Baixa qualidade mas com ótima performance</string>
+    
+    <string name="sound_pref_title">Som</string>
+    <string name="music_pref_title">Música de fundo</string>
+    <string name="show_fps_pref_title">Mostrar FPS</string>
+    <string name="zoom_pref_title">Zoom</string>
+
+    <string name="about_text">PewPew Pinball 0.1\n© 2014 André Lehmann\n\nTrabalho final de conclusão do curso de Master of Mobile Technology\n\nToque na tela para iniciar uma partida, lance a bola e acione as alavancas.\n\n</string>
+
+	<string name="preferences">Preferências</string>
+
+	<string name="help_about">Ajuda</string>
+
+</resources>
